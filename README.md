@@ -38,13 +38,6 @@ Analyze Cyclistic’s bike-share data to understand how **casual riders** and **
 
 ---
 
-### 🧩 Limitations
-- Data covers only 2019–2020 (pre-pandemic)  
-- Missing user demographics (age, gender)  
-- Weather and event factors not included  
-
----
-
 ### 🚀 Next Steps
 - Extend analysis with **2021–2024 datasets**  
 - Integrate **weather & event data**  
