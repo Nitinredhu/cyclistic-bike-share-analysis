@@ -77,6 +77,12 @@ Focusing on *weekend-based plans*, *extended ride benefits*, and *targeted mid-d
 ### 🏁 Final Thought
 By aligning **product design, pricing, and marketing** with user behavior patterns, Cyclistic can **convert leisure riders into loyal members**, boosting both **engagement and long-term profitability** 🚴‍♀️💼.
 
+---
+
+## 📊 View Full Analysis
+
+- **Kaggle Notebook:** (https://www.kaggle.com/code/nitinredhu/cyclistic-bike-share-analysis)
+- **Presentation:** (https://1drv.ms/p/c/452214e952178ea0/EVifA638NJBHoU-VZxUFvmYBqJydQsWWM2EEbUWM5ix_lQ?e=KBd5rN)
 
 ---
 
